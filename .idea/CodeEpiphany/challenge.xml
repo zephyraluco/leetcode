@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.wenjun.codeepiphany.challenge.settings">
+    <option name="challenges">
+      <map>
+        <entry key="$PROJECT_DIR$/cpp/BestTimeToBuyAndSellStock.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1980994701909692416" />
+              <option name="challengeLanguageId" value="1980994701918081024" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="5" />
+                  <option name="input" value="[7,1,5,3,6,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="0" />
+                  <option name="input" value="[7,6,4,3,1]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1980994701922275328" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="5" />
+                  <option name="input" value="[7,1,5,3,6,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="0" />
+                  <option name="input" value="[7,6,4,3,1]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/BestTimeToBuyAndSellStockIi.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1981352025841078272" />
+              <option name="challengeLanguageId" value="1981352026004656128" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="7" />
+                  <option name="input" value="[7,1,5,3,6,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="4" />
+                  <option name="input" value="[1,2,3,4,5]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="0" />
+                  <option name="input" value="[7,6,4,3,1]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1981352026025627648" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="7" />
+                  <option name="input" value="[7,1,5,3,6,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="4" />
+                  <option name="input" value="[1,2,3,4,5]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="0" />
+                  <option name="input" value="[7,6,4,3,1]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/Candy.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1981761453648121856" />
+              <option name="challengeLanguageId" value="1981761453673287680" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="5" />
+                  <option name="input" value="[1,0,2]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="4" />
+                  <option name="input" value="[1,2,2]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1981761453681676288" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="5" />
+                  <option name="input" value="[1,0,2]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="4" />
+                  <option name="input" value="[1,2,2]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/GasStation.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1981750603793174528" />
+              <option name="challengeLanguageId" value="1981750603809951744" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="3" />
+                  <option name="input" value="[1,2,3,4,5]&#10;[3,4,5,1,2]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="-1" />
+                  <option name="input" value="[2,3,4]&#10;[3,4,3]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1981750603818340352" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="3" />
+                  <option name="input" value="[1,2,3,4,5]&#10;[3,4,5,1,2]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="-1" />
+                  <option name="input" value="[2,3,4]&#10;[3,4,3]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/HIndex.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1981363139836514304" />
+              <option name="challengeLanguageId" value="1981363139853291520" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="3" />
+                  <option name="input" value="[3,0,6,1,5]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="1" />
+                  <option name="input" value="[1,3,1]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1981363139861680128" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="3" />
+                  <option name="input" value="[3,0,6,1,5]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="1" />
+                  <option name="input" value="[1,3,1]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/InsertDeleteGetrandomO1.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1981723832771284992" />
+              <option name="challengeLanguageId" value="1981723832934862848" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[null, true, false, true, 2, true, false, 2]" />
+                  <option name="input" value="[&quot;RandomizedSet&quot;,&quot;insert&quot;,&quot;remove&quot;,&quot;insert&quot;,&quot;getRandom&quot;,&quot;remove&quot;,&quot;insert&quot;,&quot;getRandom&quot;]&#10;[[],[1],[2],[2],[],[1],[2],[]]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1981723832955834368" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[null, true, false, true, 2, true, false, 2]" />
+                  <option name="input" value="[&quot;RandomizedSet&quot;,&quot;insert&quot;,&quot;remove&quot;,&quot;insert&quot;,&quot;getRandom&quot;,&quot;remove&quot;,&quot;insert&quot;,&quot;getRandom&quot;]&#10;[[],[1],[2],[2],[],[1],[2],[]]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/IntegerToRoman.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1983187893023281152" />
+              <option name="challengeLanguageId" value="1983187893040058368" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="&quot;MMMDCCXLIX&quot;" />
+                  <option name="input" value="3749" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="&quot;LVIII&quot;" />
+                  <option name="input" value="58" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="&quot;MCMXCIV&quot;" />
+                  <option name="input" value="1994" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1983187893044252672" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="&quot;MMMDCCXLIX&quot;" />
+                  <option name="input" value="3749" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="&quot;LVIII&quot;" />
+                  <option name="input" value="58" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="&quot;MCMXCIV&quot;" />
+                  <option name="input" value="1994" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/JumpGame.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1981353378470563840" />
+              <option name="challengeLanguageId" value="1981353378491535360" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="true" />
+                  <option name="input" value="[2,3,1,1,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="false" />
+                  <option name="input" value="[3,2,1,0,4]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1981353378499923968" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="true" />
+                  <option name="input" value="[2,3,1,1,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="false" />
+                  <option name="input" value="[3,2,1,0,4]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/JumpGameIi.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1981356472768008192" />
+              <option name="challengeLanguageId" value="1981356472788979712" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="2" />
+                  <option name="input" value="[2,3,1,1,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="2" />
+                  <option name="input" value="[2,3,0,1,4]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1981356472793174016" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="2" />
+                  <option name="input" value="[2,3,1,1,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="2" />
+                  <option name="input" value="[2,3,0,1,4]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/LengthOfLastWord.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1983193062020616192" />
+              <option name="challengeLanguageId" value="1983193062041587712" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="5" />
+                  <option name="input" value="&quot;Hello World&quot;" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="4" />
+                  <option name="input" value="&quot;   fly me   to   the moon  &quot;" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="6" />
+                  <option name="input" value="&quot;luffy is still joyboy&quot;" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1983193062045782016" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="5" />
+                  <option name="input" value="&quot;Hello World&quot;" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="4" />
+                  <option name="input" value="&quot;   fly me   to   the moon  &quot;" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="6" />
+                  <option name="input" value="&quot;luffy is still joyboy&quot;" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/MajorityElement.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1980987152779055104" />
+              <option name="challengeLanguageId" value="1980987152800026624" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="3" />
+                  <option name="input" value="[3,2,3]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="2" />
+                  <option name="input" value="[2,2,1,1,1,2,2]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1980987152804220928" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="1" />
+                  <option name="input" value="[1]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="2" />
+                  <option name="input" value="[2,2,1,1,1,2,2]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/MergeSortedArray.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1980656544487968768" />
+              <option name="challengeLanguageId" value="1980656544651546624" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[1,2,2,3,5,6]" />
+                  <option name="input" value="[1,2,3,0,0,0]&#10;3&#10;[2,5,6]&#10;3" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[1]" />
+                  <option name="input" value="[1]&#10;1&#10;[]&#10;0" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[1]" />
+                  <option name="input" value="[0]&#10;0&#10;[1]&#10;1" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1980656544664129536" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[1,2,2,3,5,6]" />
+                  <option name="input" value="[1,2,3,0,0,0]&#10;3&#10;[2,5,6]&#10;3" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[1]" />
+                  <option name="input" value="[1]&#10;1&#10;[]&#10;0" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[1]" />
+                  <option name="input" value="[0]&#10;0&#10;[1]&#10;1" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/ProductOfArrayExceptSelf.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1981730835107287040" />
+              <option name="challengeLanguageId" value="1981730835115675648" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[24,12,8,6]" />
+                  <option name="input" value="[1,2,3,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[0,0,9,0,0]" />
+                  <option name="input" value="[-1,1,0,-3,3]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1981730835124064256" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[24,12,8,6]" />
+                  <option name="input" value="[1,2,3,4]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[0,0,9,0,0]" />
+                  <option name="input" value="[-1,1,0,-3,3]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/RemoveDuplicatesFromSortedArray.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1980975229178089472" />
+              <option name="challengeLanguageId" value="1980975229199060992" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="2, nums = [1,2,_]" />
+                  <option name="input" value="[1,1,2]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="5, nums = [0,1,2,3,4,_,_,_,_,_]" />
+                  <option name="input" value="[0,0,1,1,1,2,2,3,3,4]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1980975229207449600" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="2, nums = [1,2,_]" />
+                  <option name="input" value="[1,1,2]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="5, nums = [0,1,2,3,4,_,_,_,_,_]" />
+                  <option name="input" value="[0,0,1,1,1,2,2,3,3,4]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/RemoveDuplicatesFromSortedArrayIi.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1980977843231920128" />
+              <option name="challengeLanguageId" value="1980977843240308736" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="5, nums = [1,1,2,2,3,_]" />
+                  <option name="input" value="[1,1,1,2,2,3]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="7, nums = [0,0,1,1,2,3,3,_,_]" />
+                  <option name="input" value="[0,0,1,1,1,1,2,3,3]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1980977843244503040" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="5, nums = [1,1,2,2,3,_]" />
+                  <option name="input" value="[1,1,1,2,2,2]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="7, nums = [0,0,1,1,2,3,3,_,_]" />
+                  <option name="input" value="[0,0,1,1,1,1,2,3,3]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/RemoveElement.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1980973546440101888" />
+              <option name="challengeLanguageId" value="1980973546595291136" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="2, nums = [2,2,_,_]" />
+                  <option name="input" value="[3,2,2,3]&#10;3" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="5, nums = [0,1,4,0,3,_,_,_]" />
+                  <option name="input" value="[0,1,2,2,3,0,4,2]&#10;2" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1980973546616262656" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="2, nums = [2,2,_,_]" />
+                  <option name="input" value="[3,2,2,3]&#10;3" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="5, nums = [0,1,4,0,3,_,_,_]" />
+                  <option name="input" value="[0,1,2,2,3,0,4,2]&#10;2" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/RomanToInteger.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1983183025734815744" />
+              <option name="challengeLanguageId" value="1983183025764175872" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="3" />
+                  <option name="input" value="&quot;III&quot;" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="58" />
+                  <option name="input" value="&quot;LVIII&quot;" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="1994" />
+                  <option name="input" value="&quot;MCMXCIV&quot;" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1983183025785147392" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="3" />
+                  <option name="input" value="&quot;III&quot;" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="58" />
+                  <option name="input" value="&quot;LVIII&quot;" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="1994" />
+                  <option name="input" value="&quot;MCMXCIV&quot;" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/RotateArray.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1980991374090178560" />
+              <option name="challengeLanguageId" value="1980991374111150080" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[5,6,7,1,2,3,4]" />
+                  <option name="input" value="[1,2,3,4,5,6,7]&#10;3" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[3,99,-1,-100]" />
+                  <option name="input" value="[-1,-100,3,99]&#10;2" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1980991374123732992" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[5,6,7,1,2,3,4]" />
+                  <option name="input" value="[1,2,3,4,5,6,7]&#10;3" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[3,99,-1,-100]" />
+                  <option name="input" value="[-1,-100,3,99]&#10;2" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cpp/TrappingRainWater.cc">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1983175743928143872" />
+              <option name="challengeLanguageId" value="1983175744108498944" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="6" />
+                  <option name="input" value="[0,1,0,2,1,0,1,3,2,1,2,1]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="9" />
+                  <option name="input" value="[4,2,0,3,2,5]" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="cpp" />
+              <option name="solutionId" value="1983175744121081856" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="6" />
+                  <option name="input" value="[0,1,0,2,1,0,1,3,2,1,2,1]" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="9" />
+                  <option name="input" value="[4,2,0,3,2,5]" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

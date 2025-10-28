@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.wenjun.codeepiphany.leetcodecn.settings">
+    <option name="languageSettings">
+      <list>
+        <LanguageSettingsState sourceFolder="D:\WorkSpace\leetcode\cpp" language="cpp" languageVersion="" fileNameTemplate="${velocity.camelCaseName(${challenge.slug})}" codeTemplate="\#include &lt;bits/stdc++.h&gt;&#10;using namespace std;&#10;&#10;$challenge.code" />
+      </list>
+    </option>
+    <option name="queryCriteria">
+      <map>
+        <entry key="LeetCodeChallengesView-lastUI" value="SearchByKeyword" />
+        <entry key="LeetCodeKeywordQueryPresenter-criteria" value="{&quot;keyword&quot;:&quot;58&quot;,&quot;orderBy&quot;:null}" />
+        <entry key="LeetCodeKeywordQueryPresenter-pageSize" value="20" />
+        <entry key="LeetCodeParametersQueryPresenter-criteria" value="{&quot;selectedCategory&quot;:null,&quot;selectedFavorite&quot;:null,&quot;selectedDifficulty&quot;:null,&quot;selectedStatus&quot;:null,&quot;tags&quot;:[],&quot;orderBy&quot;:[&quot;FRONTEND_ID&quot;,&quot;Ascending&quot;]}" />
+        <entry key="LeetCodeParametersQueryPresenter-pageSize" value="50" />
+      </map>
+    </option>
+  </component>
+</project>
